@@ -2,9 +2,36 @@
   margin: 0;
   padding: 0;
   box-sizing: boder-box;
-  
-  
 }
+  
 h1{
-  color: red;
+ text-align: center;
+ color: white;
+ font-size: 60px;
+ font-style: italic;
+ background-color: blue;
+}
+button{
+  height: 180px;
+  width: 440px;
+  font-size: 140px;
+  background-color: yellow;
+  font-style: italic;
+  display: inline;
+  padding: 10px;
+  margin-left: 20px;
+}
+#team1{
+  background-color: white;
+  padding: 10px;
+  width:490px ;
+  display:inline;
+}
+#team2{
+  
+  font-size: 100px;
+  background-color: white;
+ display: inline;
+ color: white;
+ display:inline;
 }
